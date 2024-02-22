@@ -39,4 +39,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or support, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, feel free to contact us at https://stately-dango-51a8a8.netlify.app/. 
