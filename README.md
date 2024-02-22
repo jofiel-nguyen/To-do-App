@@ -1,7 +1,6 @@
 # To-do App
 
-![App Screenshot(screenshot.png)](https://jofiel-nguyen.github.io/To-do-App/)
-
+[![TodoAppScreenshot](screenshot.png)](jofiel-nguyen.github.io/To-do-App/)
 ## Description
 The To-do App is a simple yet powerful task management application designed to help users keep track of their daily tasks, deadlines, and priorities. With intuitive features and a user-friendly interface, staying organized and productive has never been easier.
 
